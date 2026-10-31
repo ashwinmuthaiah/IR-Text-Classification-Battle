@@ -1,0 +1,1 @@
+Dataset: News_Category_Dataset_v3.json\nSelected categories: ['POLITICS', 'WELLNESS', 'ENTERTAINMENT', 'TRAVEL']\nDocuments: 39897\nTrain: 31917\nTest: 7980\nTF-IDF features: 30000\nBest model by macro F1: Linear SVM (0.9140)\n
